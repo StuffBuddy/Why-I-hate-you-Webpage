@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<head>
+	<title>Why I hate you</title>
+	<style>
+		body {
+			background-color:;
+			background-image: url("images/fire.jpg");
+			background-size: cover;
+			color: 845456;
+		}
+		
+		h1 {
+			color:#FFFFFF;
+		}
+		
+		h2 {
+			color:#FFFFFF;
+		}
+		
+		p {
+			color:#FFFFFF;
+		} 
+	</style>
+</head>
+<body>
+	<h1>Reasons why I probably hate you as a human being<h1>
+	<img width="1320" height="300" src="images/Angry_man.jpg">
+	<br>
+	<h2>Reason 1: You are a child</h2>
+	<p>I despise all children regardless of race, gender, age, or personality. It is my fundamental belief that all children should have a curfew by 2100 so that the rest of the human population is not bothered by annoying shenanigans</p>
+	<img width="400" src="images/No_children.gif">
+	<br>
+	<h2>Reason 2: You are annoying</h2>
+	<p>If you fall under the description of a blonde teenage girl then it is universal law that you are utterly and absolutely insufferable. If you are obsessed with your looks, tik tok status, and social standing with other insufferable blondes I detest you even more. If you do not fall under this description but regularly associate with these godawful people, I still hate you, just not as much. I have no respect for you at all and there will be nothing you can do for me to change my mind.</p>
+	<img width="400" src="images/No_blondes.png">
+	<br>
+	<h2>I hate everything</h2>
+	<p>If you are not any of the above, it does not mean you are safe from my ever-reaching hate. I hate a great many things, so it would be a good rule of thumb to assume that I hate everything, including you, unless stated otherwise.</p>
+	<img width="400" src="images/i_hate_you.jpg">
+	<br>
+	<h2>That's about it please die</h2>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/hiRacdl02w4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</body>
